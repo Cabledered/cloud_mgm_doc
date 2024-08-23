@@ -1,3 +1,3 @@
-# cloud_mgm_doc
+# README
 This repository was created to help the cloud administration of an OpenNebula cloud. This is a private documentation based on best practices for cloud administration.
 
